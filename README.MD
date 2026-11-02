@@ -10,3 +10,5 @@ git config --global user.name "mon nom"
 git config --global user.email "mon email"
 git log 
 git show
+git restore --staged nomdufichier (annuler un git add d'un fichier )
+git commit edite un bon commit 
