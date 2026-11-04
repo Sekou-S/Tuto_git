@@ -12,3 +12,6 @@ git log
 git show
 git restore --staged nomdufichier (annuler un git add d'un fichier )
 git commit edite un bon commit 
+# faire u merge 
+git switch nom_branch
+git  merge non_du_btranch 
